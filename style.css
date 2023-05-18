@@ -1,0 +1,33 @@
+header{
+    background:#9593ad;
+    padding: 20px 0cap;
+}
+Caixa{position:relative;
+
+width: 940px;
+margin:0 auto;
+
+}
+
+nav {position: absolute;
+    top: 110px;
+    right: 0;}
+
+nav li{display: inline;
+        margin: 0 0 0 015;}
+
+nav a{text-transform: uppercase;
+    color: #20ff02;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;}
+
+nav a:haver {
+    color: #03e6ee;
+    text-decoration: underline;
+    }
+
+
+
+
+
